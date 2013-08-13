@@ -1,6 +1,9 @@
 Bitronix-HP (High Performance)
 ==============================
 
+<b>UPDATE: all of the changes in this fork have been incorporated into the official distribution [here](https://github.com/bitronix/btm).</b>
+
+
 The official Bitronix distribution is located [here](http://docs.codehaus.org/display/BTM/Home), so why this distribution?
 
 I am a contributor and committer on the official Bitronix project, created and led by Ludovic Orban.  The company I work for and the product we sell has high performance demands, so we are constantly profiling and tuning.  We have been using Bitronix for more than 5 years, and during profiling runs, I got so used to Bitronix showing up in the list of "hotspots" that I put a filter into my profiler to basically ignore all Bitronix classes so I could focus on improving the performance of our application code.
